@@ -1,1 +1,1 @@
-print("hello ini 1.py")
+print("hello ini 1.py adalah punya mas hasan")

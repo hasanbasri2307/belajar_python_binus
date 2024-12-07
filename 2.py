@@ -1,0 +1,1 @@
+print("ini file 2.py")
