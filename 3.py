@@ -1,0 +1,1 @@
+print("ini fiel 3.py")
