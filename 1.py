@@ -1,0 +1,1 @@
+print("hello ini 1.py")
